@@ -1,0 +1,18 @@
+{
+  "name": "10479 Simplified Elevator",
+  "isFTC": false,
+  "disableSimplification": true,
+  "rotations": [
+    { "axis": "x", "degrees": 0 }
+  ],
+  "position": [0, 0, 0],
+  "cameras": [],
+  "components": [
+    {
+      "zeroedRotations": [
+        { "axis": "x", "degrees": 0 }
+      ],
+      "zeroedPosition": [0, 0, -0.74596575]
+    }
+  ]
+}
